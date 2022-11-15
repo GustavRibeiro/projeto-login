@@ -43,6 +43,7 @@
     }
     section#login {
         width: 900px;
+        height: 450px;
     }
 
     section#login > div#imagem {
